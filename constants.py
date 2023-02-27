@@ -1,4 +1,4 @@
-# Src of img!!!!!!
+# Src of img
 SRC_KIREL = 'Images/noa_kirel.jpg'
 SRC_RONALDO = 'Images/ronaldo.jpg'
 
